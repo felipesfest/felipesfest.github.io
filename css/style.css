@@ -71,3 +71,10 @@ input[type=submit] {
 input[type=submit]:hover {
     background-color: #45a049;
 }
+
+/*Redirect to phone*/
+<script type="text/javascript">
+if (screen.width <= 699) {
+document.location = "index_mobile.html";
+}
+</script>

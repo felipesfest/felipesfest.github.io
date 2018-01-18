@@ -77,7 +77,7 @@ input[type=submit]:hover {
 #header {
 background-attachment: initial !important;
 }
-#header .bottom-header h2 {
+#header .bottom-header h1 {
 font-size:66px;
 }
 }

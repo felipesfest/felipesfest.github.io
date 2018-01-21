@@ -8,7 +8,7 @@
 
       <lastmod>2017-01-21</lastmod>
 
-      <changefreq>yearly</changefreq>
+      <changefreq>weekly</changefreq>
       
       <priority>1</priority>
 
@@ -52,8 +52,6 @@
 
       <lastmod>2017-01-21</lastmod>
 
-      <changefreq>weekly</changefreq>
-
    </url>
    
       <url>
@@ -62,8 +60,6 @@
 
       <lastmod>2017-01-21</lastmod>
 
-      <changefreq>weekly</changefreq>
-
    </url>
    
       <url>
@@ -71,8 +67,6 @@
       <loc>https://bmsstudconf.github.io/2018/events.html</loc>
 
       <lastmod>2017-01-21</lastmod>
-
-      <changefreq>weekly</changefreq>
 
    </url>
    
@@ -112,7 +106,7 @@
 
       <lastmod>2017-01-21</lastmod>
 
-      <changefreq>weekly</changefreq>
+      <changefreq>monthly</changefreq>
 
    </url>
    
@@ -132,8 +126,6 @@
 
       <lastmod>2017-01-21</lastmod>
 
-      <changefreq>weekly</changefreq>
-
    </url>
    
          <url>
@@ -141,8 +133,6 @@
       <loc>https://bmsstudconf.github.io/2018/poster.html</loc>
 
       <lastmod>2017-01-21</lastmod>
-
-      <changefreq>weekly</changefreq>
 
    </url>
    
@@ -162,7 +152,7 @@
 
       <lastmod>2017-01-21</lastmod>
 
-      <changefreq>weekly</changefreq>
+      <changefreq>monthly</changefreq>
 
    </url>
    
@@ -172,7 +162,7 @@
 
       <lastmod>2017-01-21</lastmod>
 
-      <changefreq>weekly</changefreq>
+      <changefreq>monthly</changefreq>
 
    </url>
 </urlset>

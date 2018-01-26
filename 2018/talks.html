@@ -97,9 +97,21 @@ which are invariant under the action of discrete groups acting on the complex up
 The talk is based in joint work with Jordi Gu&aacuterdia.</p>
 		<p align="right"><a href="pilar.html">More information about Pilar Bayer in this link.</a></p>
 		
-		<h3>TBA</h3>
+		<h3>The computational complexity of query answering under updates</h3>
 		<h4>Nicole Schweikardt (HU Berlin)</h4>
-		<p align="justify">TBA</p>
+		<p align="justify">Query evaluation is one of the most fundamental tasks in databases, and a vast amount of literature is devoted to the complexity of this problem. This talk will focus on query evaluation in the "dynamic setting", where the database may be updated by inserting or deleting tuples. In this setting, an evaluation algorithm receives a query Q and an initial database D and starts with a preprocessing phase that computes a suitable data structure to represent the result of evaluating Q on D. After every database update, the data structure is updated so that it represents the result of evaluating Q on the updated database. The data structure shall be designed in such a way that it quickly provides the query result, preferably in constant time (i.e., independent of the database size). We focus on the following flavours of query evaluation.
+<ul style="list-style-type:none">
+	<li>(1) Testing: Decide whether a given tuple t is contained in Q(D).</li>
+	<li>(2) Counting: Compute the number of tuples that belong to Q(D).</li>
+	<li>(3) Enumeration: Enumerate Q(D) with a bounded delay between the output tuples.</li>
+</ul>
+Here, as usual, Q(D) denotes the k-ary relation obtained by evaluating a k-ary query Q on a relational database D. For Boolean queries, all three tasks boil down to
+<ul style="list-style-type:none">
+	<li>(4) Answering: Decide if Q(D) is non-empty.</li>
+</ul>
+Compared to the dynamic descriptive complexity framework introduced by Patnaik and Immerman (1997), which focuses on the expressive power of first-order logic on dynamic databases and has led to a rich body of literature, we are interested in the computational complexity of query evaluation. We say that a query evaluation algorithm is efficient if the update time is either constant or at most polylogarithmic in the size of the database.
+	    </p><p align="justify">
+In this talk I want to give an overview of recent results in this area.</p>
 		<p align="right"><a href="nicole.html">More information about Nicole Schweikardt in this link.</a></p>
 	 </div>
 </div>

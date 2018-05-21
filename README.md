@@ -1,2 +1,2 @@
-# bmsstudconf.github.io
-Webpage that hosts the BMS Student conference 
+# felipefest.github.io
+Webpage that hosts the conference Complexity of numerical computation: A workshop in honor of Felipe Cucker

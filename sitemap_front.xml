@@ -4,31 +4,31 @@
 
    <url>
 
-      <loc>https://bmsstudconf.github.io/</loc>
+      <loc>https://felipesfest.github.io/</loc>
 
-      <lastmod>2017-01-21</lastmod>
+      <lastmod>2018-05-31</lastmod>
 
-      <changefreq>yearly</changefreq>
-
-   </url>
-
-   <url>
-
-      <loc>https://bmsstudconf.github.io/index.html</loc>
-
-      <lastmod>2017-01-21</lastmod>
-
-      <changefreq>yearly</changefreq>
+      <changefreq>monthly</changefreq>
 
    </url>
 
    <url>
 
-      <loc>https://bmsstudconf.github.io/mobile.html</loc>
+      <loc>https://felipesfest.github.io/index.html</loc>
 
-      <lastmod>2017-01-21</lastmod>
+      <lastmod>2018-05-31</lastmod>
 
-      <changefreq>yearly</changefreq>
+      <changefreq>monthly</changefreq>
+
+   </url>
+
+   <url>
+
+      <loc>https://felipesfest.github.io/mobile.html</loc>
+
+      <lastmod>2018-05-31</lastmod>
+
+      <changefreq>monthly</changefreq>
 
    </url>
 

@@ -1,11 +1,14 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 html body{
-background-color : #99CEE4;
+background-color : #E6FFFF;
 }
 body {
   padding-top: 2rem;
 }
-
+.jumbotron{
+background-color: #FFFFFF;
+/*background-color:none !important;*/
+}
 .navbar-brand {
   padding: 0px;
 }
@@ -17,32 +20,35 @@ body {
 
 .navbar-default {
   background-color:teal;
+  color: blue;
   background-image: none;
   background-repeat: no-repeat;
  }
-
 .navbar-custom {
     color: #FFFFFF;
-    background-color: #0950A0;
+    background-color: #00B7EB;
 }
 
+.navbar-light .navbar-nav .nav-link {
+    color: red;
+}
 
-.navbar-nav > li > .dropdown-menu { background-color:  #0950A0; }
+.navbar-nav > li > .dropdown-menu { background-color:  #00B7EB; }
 
- .navbar-nav > li > .dropdown-menu a{   color: #FFFFFF;  }
+.navbar-nav > li > .dropdown-menu a{   color: #FFFFFF;  }
 
-.navbar-nav > li > .dropdown-menu a:hover{background-color: #0000CD;}
+.navbar-nav > li > .dropdown-menu a:hover{background-color: #00B7EB;}
 
 .btn-primary, .btn-primary:active, .btn-secondary, .btn-secondary:active{
-	background-color: #0950A0  !important;
-	border-color : #0950A0 !important;
-	color: white !important;
+	background-color: #00B7EB;
+	border-color : #00B7EB;
+	color: white;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-secondary:hover, .btn-secondary:focus{
-    background-color: #99CEE4 !important;
-		border-color: #0950A0 !important;
-		color: black !important;
+    background-color: #E6FFFF;
+		border-color: #00B7EB;
+		color: black;
 }*/
  
 /* Style inputs with type="text", select elements and textareas */
@@ -59,7 +65,7 @@ input[type=text], select, textarea {
 
 /* Style the submit button with a specific background color etc */
 input[type=submit] {
-    background-color: #4CAF50;
+    background-color: #ffffff;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -69,6 +75,6 @@ input[type=submit] {
 
 /* When moving the mouse over the submit button, add a darker green color */
 input[type=submit]:hover {
-    background-color: #45a049;
+    background-color: #ffffff;
 }
 

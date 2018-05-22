@@ -31,6 +31,11 @@ background-color: #FFFFFF;
   color:black;
 }
 
+/*Maybe the important can be quit in the future, for now, this works*/
+.navbar-nav > .active > a{color: #FFFFFF!important;}
+.navbar-nav > li > a:hover{color: #FFFFFF!important;}
+.navbar-nav > li > a{color: #9FE2BF!important;}
+
 .navbar-nav > li > .dropdown-menu { background-color:  #00B7EB; }
 
 .navbar-nav > li > .dropdown-menu a{   color: #FFFFFF;  }

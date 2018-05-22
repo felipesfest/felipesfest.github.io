@@ -9,6 +9,7 @@ body {
 background-color: #FFFFFF;
 /*background-color:none !important;*/
 }
+
 .navbar-brand {
   padding: 0px;
 }
@@ -29,13 +30,16 @@ background-color: #FFFFFF;
     background-color: #00B7EB;
 }
 
-.navbar-light .navbar-nav .nav-link {
-    color: red;
-}
+/*Maybe the important can be quit in the future, for now, this works*/
+.navbar-nav > .active > a{color: #FFFFFF!important;}
+.navbar-nav > li > a:hover{color: #FFFFFF!important;}
+.navbar-nav > li > a{color: #9FE2BF!important;}
 
-.navbar-nav > li > .dropdown-menu { background-color:  #00B7EB; }
 
-.navbar-nav > li > .dropdown-menu a{   color: #FFFFFF;  }
+
+.navbar-nav > li > .dropdown-menu {background-color:  #00B7EB;}
+
+.navbar-nav > li > .dropdown-menu a{color: #FFFFFF;}
 
 .navbar-nav > li > .dropdown-menu a:hover{background-color: #00B7EB;}
 
@@ -49,7 +53,7 @@ background-color: #FFFFFF;
     background-color: #E6FFFF;
 		border-color: #00B7EB;
 		color: black;
-}*/
+}
  
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {

@@ -3,13 +3,14 @@ html body{
 background-color : #E6FFFF;
 }
 body {
+  margin-top: 35px;
   padding-top: 2rem;
 }
 
 .jumbotron {
     margin-bottom: 50px;
     background-image: url(../imgs/background2.jpg);
-    background-position: 0% 25%;
+    background-position: 0%;
     background-size: cover;
     background-repeat: no-repeat;
     color: white;

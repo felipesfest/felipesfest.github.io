@@ -4,16 +4,16 @@
   <url>
     <loc>https://felipesfest.github.io/index.html</loc>
     <image:image>
-      <image:loc>https://felipesfest.github.io/imgs/imgs/FelipePop2.png</image:loc>
+      <image:loc>https://felipesfest.github.io/imgs/FelipePop2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://felipesfest.github.io/imgs/imgs/background.jpg</image:loc>
+      <image:loc>https://felipesfest.github.io/imgs/background.jpg</image:loc>
     </image:image>
     </url>
     <url>
-    <loc>https://felipesfest.github.io/imgs/imgs/berlin_tamarabuergisser.jpg</loc>
+    <loc>https://felipesfest.github.io/imgs/berlin_tamarabuergisser.jpg</loc>
     <image:image>
-      <image:loc>https://felipesfest.github.io/imgs/imgs/berlin_tamarabuergisser.jpg</image:loc>
+      <image:loc>https://felipesfest.github.io/imgs/berlin_tamarabuergisser.jpg</image:loc>
     </image:image>
   </url> 
 </urlset>

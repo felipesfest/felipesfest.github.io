@@ -4,10 +4,16 @@
   <url>
     <loc>https://felipesfest.github.io/index.html</loc>
     <image:image>
-      <image:loc>https://felipesfest.github.io/imgs/FelipeSinFondo.png</image:loc>
+      <image:loc>https://felipesfest.github.io/imgs/FelipeVNZ.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://felipesfest.github.io/imgs/background.jpg</image:loc>
+    </image:image>
+    </url>
+    <url>
+    <loc>https://felipesfest.github.io/mobile.html</loc>
+    <image:image>
+      <image:loc>https://felipesfest.github.io/imgs/FelipeSinFondo.png</image:loc>
     </image:image>
     </url>
     <url>

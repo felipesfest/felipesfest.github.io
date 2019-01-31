@@ -2,44 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://felipesfest.github.io/index.html</loc>
+    <loc>http://felipesfest.xyz/index.html</loc>
     <image:image>
-      <image:loc>https://felipesfest.github.io/imgs/FelipeVNZ.png</image:loc>
+      <image:loc>http://felipesfest.xyz/imgs/FelipeVNZ.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://felipesfest.github.io/imgs/background.jpg</image:loc>
+      <image:loc>http://felipesfest.xyz/imgs/background.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://felipesfest.github.io/poster/poster0small.png</image:loc>
+      <image:loc>http://felipesfest.xyz/poster/poster0small.png</image:loc>
     </image:image>
     </url>
     <url>
-    <loc>https://felipesfest.github.io/mobile.html</loc>
+    <loc>http://felipesfest.xyz/mobile.html</loc>
     <image:image>
-      <image:loc>https://felipesfest.github.io/imgs/FelipeSinFondo.png</image:loc>
+      <image:loc>http://felipesfest.xyz/imgs/FelipeSinFondo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://felipesfest.github.io/imgs/background.jpg</image:loc>
+      <image:loc>http://felipesfest.xyz/imgs/background.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://felipesfest.github.io/poster/poster0small.png</image:loc>
+      <image:loc>http://felipesfest.xyz/poster/poster0small.png</image:loc>
     </image:image>
     </url>
 
   <url>
-    <loc>https://felipesfest.github.io/poster.html</loc>
+    <loc>http://felipesfest.xyz/poster.html</loc>
     <image:image>
-      <image:loc>https://felipesfest.github.io/poster/poster0.jpg</image:loc>
+      <image:loc>http://felipesfest.xyz/poster/poster0.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://felipesfest.github.io/poster/poster0.png</image:loc>
+      <image:loc>http://felipesfest.xyz/poster/poster0.png</image:loc>
     </image:image>
     </url>
 
     <url>
-    <loc>https://felipesfest.github.io/imgs/berlin_tamarabuergisser.jpg</loc>
+    <loc>http://felipesfest.xyz/imgs/berlin_tamarabuergisser.jpg</loc>
     <image:image>
-      <image:loc>https://felipesfest.github.io/imgs/berlin_tamarabuergisser.jpg</image:loc>
+      <image:loc>http://felipesfest.xyz/imgs/berlin_tamarabuergisser.jpg</image:loc>
     </image:image>
   </url> 
+<url>
+    <loc>http://felipesfest.xyz/poster/poster2.jpg</loc>
+    <image:image>
+      <image:loc>http://felipesfest.xyz/poster/poster2.jpg</image:loc>
+    </image:image>
+  </url> 
+    <loc>http://felipesfest.xyz/poster/poster1.jpg</loc>
+    <image:image>
+      <image:loc>http://felipesfest.xyz/poster/poster1.jpg</image:loc>
+    </image:image>
+  </url> 
+
 </urlset>

@@ -9,13 +9,33 @@
     <image:image>
       <image:loc>https://felipesfest.github.io/imgs/background.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://felipesfest.github.io/poster/poster0small.png</image:loc>
+    </image:image>
     </url>
     <url>
     <loc>https://felipesfest.github.io/mobile.html</loc>
     <image:image>
       <image:loc>https://felipesfest.github.io/imgs/FelipeSinFondo.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://felipesfest.github.io/imgs/background.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://felipesfest.github.io/poster/poster0small.png</image:loc>
+    </image:image>
     </url>
+
+  <url>
+    <loc>https://felipesfest.github.io/poster.html</loc>
+    <image:image>
+      <image:loc>https://felipesfest.github.io/poster/poster0.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://felipesfest.github.io/poster/poster0.png</image:loc>
+    </image:image>
+    </url>
+
     <url>
     <loc>https://felipesfest.github.io/imgs/berlin_tamarabuergisser.jpg</loc>
     <image:image>

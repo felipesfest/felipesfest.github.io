@@ -43,11 +43,18 @@
     </image:image>
   </url> 
 <url>
+    <loc>http://felipesfest.xyz/poster/poster0.jpg</loc>
+    <image:image>
+      <image:loc>http://felipesfest.xyz/poster/poster0.jpg</image:loc>
+    </image:image>
+  </url> 
+<url>
     <loc>http://felipesfest.xyz/poster/poster2.jpg</loc>
     <image:image>
       <image:loc>http://felipesfest.xyz/poster/poster2.jpg</image:loc>
     </image:image>
   </url> 
+<url>
     <loc>http://felipesfest.xyz/poster/poster1.jpg</loc>
     <image:image>
       <image:loc>http://felipesfest.xyz/poster/poster1.jpg</image:loc>

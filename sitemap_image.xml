@@ -4,7 +4,7 @@
   <url>
     <loc>http://felipefest.xyz/index.html</loc>
     <image:image>
-      <image:loc>http://felipefest.xyz/imgs/FelipeVNZ.png</image:loc>
+      <image:loc>http://felipefest.xyz/imgs/felipeC.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://felipefest.xyz/imgs/background.jpg</image:loc>
@@ -46,6 +46,12 @@
     <loc>http://felipefest.xyz/poster/poster0.jpg</loc>
     <image:image>
       <image:loc>http://felipefest.xyz/poster/poster0.jpg</image:loc>
+    </image:image>
+  </url> 
+<url>
+    <loc>http://felipefest.xyz/poster/poster0big.png</loc>
+    <image:image>
+      <image:loc>http://felipefest.xyz/poster/poster0big.png</image:loc>
     </image:image>
   </url> 
 <url>

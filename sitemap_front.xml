@@ -3,162 +3,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
    <url>
-
       <loc>http://felipefest.xyz/</loc>
-
       <lastmod>2019-07-01</lastmod>
-
-      <changefreq>monthly</changefreq>
-
    </url>
 
    <url>
-
       <loc>http://felipefest.xyz/index.html</loc>
-
       <lastmod>2019-01-31</lastmod>
-
-      <changefreq>monthly</changefreq>
-
    </url>
 
    <url>
-
       <loc>http://felipefest.xyz/mobile.html</loc>
-
       <lastmod>2019-01-31</lastmod>
-
-      <changefreq>monthly</changefreq>
-
    </url>
 
    <url>
-
       <loc>http://felipefest.xyz/booklet.html</loc>
-
       <lastmod>2019-01-31</lastmod>
-
-      <changefreq>monthly</changefreq>
-
    </url>
 
    <url>
-
       <loc>http://felipefest.xyz/events.html</loc>
-
       <lastmod>2019-01-31</lastmod>
-
-      <changefreq>monthly</changefreq>
-
    </url>
 
    <url>
-
       <loc>http://felipefest.xyz/felipecucker.html</loc>
-
       <lastmod>2019-01-31</lastmod>
-
-      <changefreq>monthly</changefreq>
-
    </url>
 
    <url>
-
       <loc>http://felipefest.xyz/mschedule.html</loc>
-
       <lastmod>2019-07-01</lastmod>
-
-      <changefreq>monthly</changefreq>
-
    </url>
 
    <url>
-
       <loc>http://felipefest.xyz/organization.html</loc>
-
       <lastmod>2019-07-01</lastmod>
-
-      <changefreq>monthly</changefreq>
-
    </url>
 
    <url>
-
       <loc>http://felipefest.xyz/participants.html</loc>
-
       <lastmod>2019-07-01</lastmod>
-
-      <changefreq>monthly</changefreq>
-
    </url>
 
    <url>
-
       <loc>http://felipefest.xyz/pictures.html</loc>
-
       <lastmod>2019-01-31</lastmod>
-
       <changefreq>monthly</changefreq>
+   </url>
 
+   <url>
+      <loc>http://felipefest.xyz/poster.html</loc>
+      <lastmod>2019-01-31</lastmod>
    </url>
 
    <url>
 
-      <loc>http://felipefest.xyz/poster.html</loc>
-
-      <lastmod>2019-01-31</lastmod>
-
+      <loc>http://felipefest.xyz/posters.html</loc>
+      <lastmod>2019-07-01</lastmod>
       <changefreq>monthly</changefreq>
-
    </url>
 
    <url>
 
       <loc>http://felipefest.xyz/registration.html</loc>
-
       <lastmod>2019-07-01</lastmod>
-
       <changefreq>monthly</changefreq>
-
    </url>
 
    <url>
 
       <loc>http://felipefest.xyz/schedule.html</loc>
-
       <lastmod>2019-07-01</lastmod>
-
       <changefreq>monthly</changefreq>
-
    </url>
 
    <url>
 
       <loc>http://felipefest.xyz/talks.html</loc>
-
       <lastmod>2019-07-01</lastmod>
-
-      <changefreq>monthly</changefreq>
-
    </url>
 
    <url>
 
       <loc>http://felipefest.xyz/updates.html</loc>
-
       <lastmod>2019-01-31</lastmod>
-
       <changefreq>monthly</changefreq>
-
    </url>
 
    <url>
 
       <loc>http://felipefest.xyz/venue.html</loc>
-
       <lastmod>2019-01-31</lastmod>
-
-      <changefreq>monthly</changefreq>
 
    </url>
 
@@ -171,26 +108,17 @@
    </url>
 
    <url>
-
       <loc>http://felipefest.xyz/poster/poster0.jpg</loc>
-
       <lastmod>2019-01-31</lastmod>
-
    </url>
 
    <url>
-
       <loc>http://felipefest.xyz/poster/poster1.jpg</loc>
-
       <lastmod>2019-01-31</lastmod>
-
    </url>
 
    <url>
-
       <loc>http://felipefest.xyz/poster/poster2.jpg</loc>
-
       <lastmod>2019-01-31</lastmod>
-
    </url>
 </urlset>
